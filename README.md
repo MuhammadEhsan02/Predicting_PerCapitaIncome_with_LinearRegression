@@ -5,8 +5,7 @@ This repository contains code and datasets for predicting per capita income tren
 
 ## Repository Structure
 - `data/`: Directory containing datasets used for training and evaluation.
-- `notebooks/`: Directory containing Jupyter notebooks with code for data analysis, model training, and evaluation.
-- `models/`: Directory to save trained model artifacts.
+- `notebook/`: Directory containing Jupyter notebook with code for data analysis, model training, and evaluation.
 - `images/`: Directory containing images and plots generated during exploratory data analysis and model evaluation.
 - `README.md`: This file providing an overview of the project, instructions, and guidelines for usage.
 
