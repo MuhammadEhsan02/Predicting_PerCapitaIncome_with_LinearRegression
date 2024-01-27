@@ -25,7 +25,7 @@ pip install -r requirements.txt
 The dataset used in this project consists of historical per capita income data for Canada. It includes information about per capita income (in US dollars) for various years. The dataset is provided in CSV format and is located in the `data/` directory.
 
 ## Results and Findings
-Detailed insights, visualizations, and analysis results are documented in the Jupyter notebooks available in the `notebooks/` directory. The findings provide valuable insights into the trends and patterns observed in per capita income data over time, as well as the predictive capabilities of the linear regression model.
+Detailed insights, visualizations, and analysis results are documented in the Jupyter notebooks available in the `notebook/` directory. The findings provide valuable insights into the trends and patterns observed in per capita income data over time, as well as the predictive capabilities of the linear regression model.
 
 ## Future Work
 - Experiment with different regression algorithms and techniques to enhance predictive performance.
