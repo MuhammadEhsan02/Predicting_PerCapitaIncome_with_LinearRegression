@@ -19,7 +19,7 @@ cd Predicting_PerCapitaIncome_with_LinearRegression
 3. Install the required dependencies by running:
 pip install -r requirements.txt
 
-4. Explore the `notebooks/` directory to understand the workflow and execute the Jupyter notebooks for data analysis, model training, and evaluation.
+4. Explore the `notebook/` directory to understand the workflow and execute the Jupyter notebooks for data analysis, model training, and evaluation.
 
 ## Dataset Description
 The dataset used in this project consists of historical per capita income data for Canada. It includes information about per capita income (in US dollars) for various years. The dataset is provided in CSV format and is located in the `data/` directory.
