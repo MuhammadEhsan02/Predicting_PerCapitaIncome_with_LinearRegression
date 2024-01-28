@@ -11,13 +11,13 @@ This repository contains code and datasets for predicting per capita income tren
 
 ## Getting Started
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/MuhammadEhsan02/Predicting_PerCapitaIncome_with_LinearRegression.git
+`git clone` https://github.com/MuhammadEhsan02/Predicting_PerCapitaIncome_with_LinearRegression.git
 
 2. Navigate to the project directory:
 cd Predicting_PerCapitaIncome_with_LinearRegression
 
 3. Install the required dependencies by running:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 4. Explore the `notebook/` directory to understand the workflow and execute the Jupyter notebooks for data analysis, model training, and evaluation.
 
