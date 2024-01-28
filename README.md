@@ -24,6 +24,9 @@ This repository contains code and datasets for predicting per capita income tren
 ## Dataset Description
 The dataset used in this project consists of historical per capita income data for Canada. It includes information about per capita income (in US dollars) for various years. The dataset is provided in CSV format and is located in the `data/` directory.
 
+## Model Evaluation
+The performance of the linear regression model is evaluated using various metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) values. These metrics are computed to assess the accuracy and effectiveness of the model in predicting per capita income trends.
+
 ## Results and Findings
 Detailed insights, visualizations, and analysis results are documented in the Jupyter notebooks available in the `notebook/` directory. The findings provide valuable insights into the trends and patterns observed in per capita income data over time, as well as the predictive capabilities of the linear regression model.
 
